@@ -42,7 +42,8 @@ The dataset contains entries representing employees with attributes across:
 
 ## Screenshots
 
-![Dashboard Overview](screenshot%201.png)
+![Dashboard Overview](Screenshot%201.png)
+![Dashboard Overview](Screenshot%202.png)
 
 
 *Dashboard visualizes salary distribution, performance, attendance, and demographic breakdowns.*
